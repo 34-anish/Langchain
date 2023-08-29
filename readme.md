@@ -128,7 +128,7 @@ displays the Indian restaurant name and the menus of it in a dictionary form
 Agent is a poweful concept of the lanchain which gives the reasonable capacity to the OpenAi
 ![e8c7868bd04382a9ff62911fd4cf9023.png](./_resources/e8c7868bd04382a9ff62911fd4cf9023.png)
 
-| Month | Savings |
+| OpenAi  |Langchain |
 | -------- | ------- |
 | ![3b0b439ccf7d9baa17af43dd550e0188.png](./_resources/3b0b439ccf7d9baa17af43dd550e0188.png) | ![c9d320f010fc560e2b9ed51fc7b83cc9.png](./_resources/c9d320f010fc560e2b9ed51fc7b83cc9.png) |
 |![b34ef7e554cf4620a5ab8f1a35cfcc9d.png](./_resources/b34ef7e554cf4620a5ab8f1a35cfcc9d.png)|![320bf1d030a80b6795cebeacadf5c30d.png](./_resources/320bf1d030a80b6795cebeacadf5c30d.png)|
